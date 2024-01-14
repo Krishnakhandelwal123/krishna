@@ -1,4 +1,4 @@
 # krishna
 this is my git repository.
 <br>
-author krishna khandelwal.
+author Krishna Khandelwal.
